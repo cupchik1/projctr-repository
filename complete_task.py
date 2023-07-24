@@ -14,3 +14,5 @@ num_rounds = 100
 
 cats_with_hats_at_end = get_cats_with_hats(num_cats, num_rounds)
 print("Cats with hats at the end:", cats_with_hats_at_end)
+
+# Complexity is: O(num_cats * num_rounds)
